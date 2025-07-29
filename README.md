@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭C , Python , HTML
+- 🔭C , Python , HTML , DSA(With C)
 - 🌱 
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with building my career.
